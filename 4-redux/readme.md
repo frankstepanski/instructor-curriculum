@@ -1,8 +1,0 @@
-## State Mangement 
-
-### Context
-
-
-
-
-### Redux

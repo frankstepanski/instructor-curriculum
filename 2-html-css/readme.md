@@ -1,5 +1,1 @@
-## HTML
-
-## CSS
-
-## HTML DOM
+## HTML and CSS
